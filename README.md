@@ -9,5 +9,9 @@ Before running this project, ensure you have the following:
     Python 3.6 or higher installed on your system.
 
     os and shutil Python modules (built-in, no need to install).
+#Screenshot
+![folder clean up](https://github.com/user-attachments/assets/1936fca5-1ca8-4598-a335-15d0dbee2305)
 
+#Happy Coding
+  #Happy Coding!!
   #Happy Coding!!
